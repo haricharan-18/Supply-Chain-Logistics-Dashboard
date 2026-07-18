@@ -13,7 +13,6 @@ This project analyzes Supply Chain and Logistics data using SQL and Power BI to 
 \---
 
 
-
 \## 🎯 Objectives
 
 
