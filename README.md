@@ -114,7 +114,7 @@ This project analyzes Supply Chain and Logistics data using SQL and Power BI to 
 Supply Chain & Logistics Analytics Dashboard
 
 📊 Dashboard Overview
-[Full dashboard screenshot]
+Screenshot 2026-07-19 030153.png
 
 📈 KPIs
 - Total Orders
