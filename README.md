@@ -111,6 +111,25 @@ This project analyzes Supply Chain and Logistics data using SQL and Power BI to 
 
 
 \---
+Supply Chain & Logistics Analytics Dashboard
+
+📊 Dashboard Overview
+[Full dashboard screenshot]
+
+📈 KPIs
+- Total Orders
+- Total Revenue
+- Shipping Cost
+- Average Order Value
+
+📦 Warehouse Analysis
+[Screenshot]
+
+🚚 Courier Analysis
+[Screenshot]
+
+🏢 Vendor Analysis
+[Screenshot]
 
 
 
