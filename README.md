@@ -1,40 +1,136 @@
-# Supply Chain & Logistics Analytics Dashboard
+\# 📦 Supply Chain \& Logistics Analytics Dashboard
 
-## Overview
 
-This project is an interactive Power BI dashboard built using Supply Chain and Logistics data.
 
-It provides insights into:
-- Total Orders
-- Total Revenue
-- Shipping Cost
-- Average Order Value
-- Orders by Warehouse
-- Orders by Courier
-- Revenue by Vendor
-- Revenue by Warehouse
-- Revenue Distribution by Destination City
+\## 📌 Project Overview
 
-## Tools Used
 
-- Power BI Desktop
-- PostgreSQL
-- SQL
-- DAX
-- Data Visualization
 
-## Dashboard Features
+This project analyzes Supply Chain and Logistics data using SQL and Power BI to identify business insights related to orders, revenue, shipping costs, warehouses, vendors, couriers, and destinations.
 
-- KPI Cards
-- Interactive Slicer
-- Bar Charts
-- Donut Chart
-- Professional Dashboard Design
 
-## Dashboard Preview
 
-(Add dashboard.png here after uploading)
+\---
 
-## Author
+
+
+\## 🎯 Objectives
+
+
+
+\- Analyze total orders
+
+\- Calculate total revenue
+
+\- Analyze shipping costs
+
+\- Find average order value
+
+\- Compare warehouse performance
+
+\- Compare courier performance
+
+\- Compare vendor revenue
+
+\- Analyze destination city distribution
+
+
+
+\---
+
+
+
+\## 🛠️ Tech Stack
+
+
+
+\- SQL (PostgreSQL)
+
+\- Power BI
+
+\- Git
+
+\- GitHub
+
+
+
+\---
+
+
+
+\## 📊 Dashboard KPIs
+
+
+
+\- Total Orders
+
+\- Total Revenue
+
+\- Shipping Cost
+
+\- Average Order Value
+
+
+
+\---
+
+
+
+\## 📈 Dashboard Visualizations
+
+
+
+\- Orders by Warehouse
+
+\- Orders by Courier
+
+\- Revenue by Vendor
+
+\- Revenue by Warehouse
+
+\- Revenue by Destination City
+
+
+
+\---
+
+
+
+\## 💡 Key Insights
+
+
+
+\- Revenue is distributed across multiple warehouses.
+
+\- Vendor performance can be compared easily.
+
+\- Courier workload is balanced.
+
+\- Destination cities contribute significantly to total revenue.
+
+
+
+\---
+
+
+
+\## 📁 Files
+
+
+
+\- Supply\_Chain\_Logistics\_Dashboard.pbix
+
+\- README.md
+
+
+
+\---
+
+
+
+\## 👨‍💻 Author
+
+
 
 Haricharan
+
