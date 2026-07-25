@@ -6,7 +6,7 @@ A Power BI dashboard built using SQL and Power BI to analyze supply chain and lo
 
 # 📸 Dashboard Preview
 
-![Supply Chain Dashboard](dashboard.png)
+![Supply Chain Dashboard](dashboard-final.png)
 
 ---
 
