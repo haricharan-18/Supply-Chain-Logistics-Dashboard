@@ -1,154 +1,135 @@
-\# 📦 Supply Chain \& Logistics Analytics Dashboard
+# 📦 Supply Chain & Logistics Analytics Dashboard
 
+A Power BI dashboard built using SQL and Power BI to analyze supply chain and logistics operations. The dashboard provides interactive insights into orders, revenue, shipping costs, warehouse performance, courier performance, vendor revenue, and destination-wise analysis.
 
+---
 
-\## 📌 Project Overview
+# 📸 Dashboard Preview
 
+![Supply Chain Dashboard](dashboard.png)
 
+---
 
-This project analyzes Supply Chain and Logistics data using SQL and Power BI to identify business insights related to orders, revenue, shipping costs, warehouses, vendors, couriers, and destinations.
+## 📌 Project Overview
 
+This project transforms raw Supply Chain and Logistics data into an interactive Business Intelligence dashboard using SQL and Power BI. It enables users to monitor operational performance and gain insights through interactive charts, KPI cards, and filters.
 
+---
 
-\---
+## 🎯 Objectives
 
+- Analyze Total Orders
+- Calculate Total Revenue
+- Analyze Shipping Costs
+- Calculate Average Order Value
+- Compare Warehouse Performance
+- Compare Courier Performance
+- Compare Vendor Revenue
+- Analyze Destination City Distribution
 
-\## 🎯 Objectives
+---
 
+## 🛠️ Tech Stack
 
+- PostgreSQL
+- SQL
+- Power BI
+- DAX
+- Git
+- GitHub
 
-\- Analyze total orders
+---
 
-\- Calculate total revenue
+## 📊 Dashboard KPIs
 
-\- Analyze shipping costs
+| KPI | Description |
+|------|-------------|
+| 📦 Total Orders | Total number of orders processed |
+| 💰 Total Revenue | Overall revenue generated |
+| 🚚 Shipping Cost | Total logistics cost |
+| 📈 Average Order Value | Average revenue generated per order |
 
-\- Find average order value
+---
 
-\- Compare warehouse performance
+## 📈 Dashboard Visualizations
 
-\- Compare courier performance
+- 📦 Orders by Warehouse
+- 🚚 Orders by Courier
+- 💰 Revenue by Vendor
+- 🏢 Revenue by Warehouse
+- 🌍 Destination City Filter
 
-\- Compare vendor revenue
+---
 
-\- Analyze destination city distribution
+## 💡 Key Insights
 
+- Revenue distribution across warehouses can be compared easily.
+- Courier workload is balanced across service providers.
+- Vendor-wise revenue highlights top-performing vendors.
+- Destination city filtering enables dynamic business analysis.
 
+---
 
-\---
+## 📂 Repository Structure
 
+```text
+Supply-Chain-Logistics-Dashboard/
+│
+├── README.md
+├── Screenshot 2026-07-19 030153.png
+└── Supply_Chain_Logistics_Dashboard.pbix
+```
 
+---
 
-\## 🛠️ Tech Stack
+## 🚀 How to Run
 
+1. Clone this repository
 
+```bash
+git clone https://github.com/haricharan-18/Supply-Chain-Logistics-Dashboard.git
+```
 
-\- SQL (PostgreSQL)
+2. Open
 
-\- Power BI
+```
+Supply_Chain_Logistics_Dashboard.pbix
+```
 
-\- Git
+using **Power BI Desktop**.
 
-\- GitHub
+3. Explore the dashboard using the Destination City slicer.
 
+---
 
+## 📷 Dashboard Features
 
-\---
+- Executive KPI Cards
+- Interactive Slicer
+- Warehouse Analysis
+- Courier Analysis
+- Vendor Revenue Analysis
+- Clean Business Dashboard Design
 
+---
 
+## 📌 Future Improvements
 
-\## 📊 Dashboard KPIs
+- Time-series Sales Analysis
+- Customer Segmentation
+- Forecasting using Power BI
+- Additional DAX Measures
+- Drill-through Pages
 
+---
 
+## 👨‍💻 Author
 
-\- Total Orders
+**Haricharan**
 
-\- Total Revenue
+GitHub: https://github.com/haricharan-18
 
-\- Shipping Cost
+---
 
-\- Average Order Value
-
-
-
-\---
-
-
-
-\## 📈 Dashboard Visualizations
-
-
-
-\- Orders by Warehouse
-
-\- Orders by Courier
-
-\- Revenue by Vendor
-
-\- Revenue by Warehouse
-
-\- Revenue by Destination City
-
-
-
-\---
-
-
-
-\## 💡 Key Insights
-
-
-
-\- Revenue is distributed across multiple warehouses.
-
-\- Vendor performance can be compared easily.
-
-\- Courier workload is balanced.
-
-\- Destination cities contribute significantly to total revenue.
-
-
-
-\---
-Supply Chain & Logistics Analytics Dashboard
-
-📊 Dashboard Overview
-Screenshot 2026-07-19 030153.png
-
-📈 KPIs
-- Total Orders
-- Total Revenue
-- Shipping Cost
-- Average Order Value
-
-📦 Warehouse Analysis
-[Screenshot]
-
-🚚 Courier Analysis
-[Screenshot]
-
-🏢 Vendor Analysis
-[Screenshot]
-
-
-
-\## 📁 Files
-
-
-
-\- Supply\_Chain\_Logistics\_Dashboard.pbix
-
-\- README.md
-
-
-
-\---
-
-
-
-\## 👨‍💻 Author
-
-
-
-Haricharan
+⭐ If you found this project useful, consider giving it a star!
 
